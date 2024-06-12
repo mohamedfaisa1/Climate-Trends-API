@@ -2,7 +2,7 @@ Package: ClimateSCFP
 Type: Package
 Title: USA Climate Trends Statistical Analysis Toolkit for R
 Version: 0.1.0
-Authors@R: person("Mohamed", "Abdelrahman", email = "mfa39@cornell.edu",
+Authors@R: person("Mohamed", "Faisal",
   role = c("aut", "cre"))
 Description: Functions to plot and infer climate trends from USA Climate
     Trend Data,
