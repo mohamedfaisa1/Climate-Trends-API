@@ -1,0 +1,22 @@
+Package: ClimateSCFP
+Type: Package
+Title: USA Climate Trends Statistical Analysis Toolkit for R
+Version: 0.1.0
+Authors@R: person("Mohamed", "Abdelrahman", email = "mfa39@cornell.edu",
+  role = c("aut", "cre"))
+Description: Functions to plot and infer climate trends from USA Climate
+    Trend Data,
+    \url{https://www.ncei.noaa.gov/pub/data/uscrn/products/daily01/}..
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: dplyr, ggplot2, maps, lubridate, sf, sp, GpGp, elevatr, usmap
+RoxygenNote: 7.3.1
+Suggests: rmarkdown, knitr, testthat (>= 3.0.0)
+Config/testthat/edition: 3
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2024-05-07 17:10:47 UTC; mohamed
+Author: Mohamed Abdelrahman [aut, cre]
+Maintainer: Mohamed Abdelrahman <mfa39@cornell.edu>
+Depends: R (>= 3.5.0)

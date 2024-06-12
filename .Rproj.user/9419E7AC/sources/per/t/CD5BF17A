@@ -1,0 +1,32 @@
+{
+    "id": "CD5BF17A",
+    "path": "~/Desktop/SP24/STSCI-4520/ClimateSCFP/vignettes/vignette.Rmd",
+    "project_path": "vignettes/vignette.Rmd",
+    "type": "r_markdown",
+    "hash": "1375688340",
+    "contents": "",
+    "dirty": false,
+    "created": 1715068524966.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "390,24",
+        "scrollLine": "316",
+        "last_setup_crc32": "",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "0",
+        "rmdVisualModeLocation": "17852:8761.7138671875",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1715140017,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1715140447050,
+    "read_only": false,
+    "read_only_alternatives": []
+}
